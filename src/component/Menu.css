@@ -1,0 +1,38 @@
+
+.Menu{
+    background-color: #ffffff;
+    color: #1a1a1a;
+    max-height:15vh;
+    max-width: 100%;
+
+}
+
+.Menu__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 15rem;
+}
+
+.Menu__list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+.Menu__img{
+    max-height: 10vh;
+    max-width: 10vw;
+    margin: 1rem;
+   display: flex;
+    gap: 1rem;
+    color: #000;
+    font-weight: 700;
+}
+
+.Menu__img img{
+    max-height: 8vh;
+    max-width: 8vw;
+
+
+}

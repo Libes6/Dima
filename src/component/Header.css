@@ -1,0 +1,25 @@
+.header{
+    max-width:1540px;
+    max-height:20vh;
+    background-color:#063c73;
+}
+.container__header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 4rem;
+}
+
+.menu__header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+.menu__header-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
